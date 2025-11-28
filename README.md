@@ -34,7 +34,7 @@ A aplicação foi construída com **Spring Boot** e utiliza as seguintes depend�
 
 2. Ajuste as informações de conexão no arquivo `application.properties`
 
-3. Dê Run no projeto e sua API estará rodando em: **http://localhost:8080**
+3. Dê Run no projeto e sua API estará rodando em: `http://localhost:8080`
 
 
 
